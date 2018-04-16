@@ -2,15 +2,30 @@
 
 ## [vernacular](/vernacular)
 
+
+
 And a [link to a test file](/vernacular/test) here as well.
 
 @TODO
 
-## nestedset
+## [nestedset](/nestedset)
 
+```shell
+composer require codefocus/nestedset
+```
+
+```bash
+composer require codefocus/nestedset
+```
+
+```sh
+composer require codefocus/nestedset
+```
 @TODO
 
-### managedcache
+### [managedcache](/managedcache)
+
+
 
 @TODO
 
