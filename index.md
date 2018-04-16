@@ -1,32 +1,30 @@
 # Projects
 
+
 ## [vernacular](/vernacular)
 
+### Installation
 
+```shell
+composer require codefocus/vernacular
+```
 
 And a [link to a test file](/vernacular/test) here as well.
 
-@TODO
 
 ## [nestedset](/nestedset)
+
+### Installation
 
 ```shell
 composer require codefocus/nestedset
 ```
 
-```bash
-composer require codefocus/nestedset
+
+## [managedcache](/managedcache)
+
+### Installation
+
+```shell
+composer require codefocus/managedcache
 ```
-
-```sh
-composer require codefocus/nestedset
-```
-@TODO
-
-### [managedcache](/managedcache)
-
-
-
-@TODO
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
