@@ -6,3 +6,8 @@ $header-bg-color-secondary: #004e92;
 
 
 @import "{{ site.theme }}";
+
+
+h1 {
+    font-weight: lighter;
+}
